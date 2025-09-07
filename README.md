@@ -14,9 +14,9 @@ A Python-based resume parser hosted on AWS EC2, using Flask, S3, and DynamoDB. U
 4. Access at `http://<ec2-public-ip>:5000`.
 
 ## AWS Resources
-- S3: `resume-parser-tife`
-- DynamoDB: `ResumeData`
-- EC2: t2.micro with IAM role (`resume-parser-ec2-role`)
+- S3
+- DynamoDB
+- EC2: t2.micro with IAM role
 
 ## Free Tier
 Uses AWS Free Tier (750 EC2 hours, 5GB S3, 25GB DynamoDB).
