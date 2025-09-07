@@ -1,0 +1,6 @@
+resume-parser-key.pem
+app.log
+nohup.out
+venv/
+*.pyc
+__pycache__/
